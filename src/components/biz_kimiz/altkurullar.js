@@ -8,7 +8,7 @@ function Altkurullar() {
 		<div className="container altKurullar">
 			<Helmet>
 				<title>Alt Kurullarımız - Boğaziçi Üniversitesi Bilişim Kulübü</title>
-				<meta 
+				<meta
 					name="description"
 					content="Compec, Boğaziçi Bilişim Ödülleri, DevTeam, Dijital Girişimcilik, Oyun Geliştirme, PR, Teknoloji ve Veri Bilimi olmak üzere 7 alt kurulu bünyesinde barındırır."
 				/>
@@ -39,7 +39,7 @@ function Altkurullar() {
 				<Card>
 					<Card.Header>
 						<Accordion.Toggle as={NavLink} variant="link" eventKey="1">
-							DevTeam
+							DevTeam Alt Kurulu
 						</Accordion.Toggle>
 					</Card.Header>
 					<Accordion.Collapse eventKey="1">
